@@ -1,0 +1,14 @@
+body {
+  background-image: url("http://www.surfingindia.net/files/surf-files/u9/India_Surf_Tours_-_17__1_.jpg");
+}
+
+h1, h2 {
+  color: gold;
+  text-align: center;
+  font-family: "Gloria Hallelujah";
+}
+
+p {
+  color: black;
+  font-family: "Permanent Marker";
+}
